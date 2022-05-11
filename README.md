@@ -39,5 +39,8 @@ cd front && npm i && npm start
 # Demo
 demo credentials:
   email: abcd@gmail.com
-  password: 123456789
+  password: Yaniv1
+  
 [Demo](https://video-sharing-gottlieb.herokuapp.com/home)
+
+demo may stop workingin near future because honestly just dont want to incur google cloud charges
