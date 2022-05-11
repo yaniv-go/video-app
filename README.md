@@ -20,7 +20,7 @@ install node >= v16.15.0, ffmpeg and have a gcp project with a corresponding buc
 * JWT_SECRET=some random string to use as secret
 
 **optional** enviroment variables:
-* PORT=port to use for backend default is 3001 if port is changed must change proxy in ./front package.json
+* PORT=port to use for backend default is 3001 if port is changed must change proxy in ./front/package.json
 * MAX_OBJECTS_SEND=max json objects to send in server response default is 1000
 * MAX_FILE_SIZE=maximum allowed file size default is 500mb
 
