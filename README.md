@@ -43,4 +43,5 @@ demo credentials:
   
 [Demo](https://video-sharing-gottlieb.herokuapp.com/home)
 
-demo may stop workingin near future because honestly just dont want to incur google cloud charges
+demo may stop workingin near future because honestly just dont want to incurr google cloud charges
+also be aware that any upload which takes over 30 seconds will be automatically cancelled by heroku
